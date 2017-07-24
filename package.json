@@ -17,7 +17,7 @@
     "database"
   ],
   "author": "Nathan Perry",
-  "license": "LGPL-3.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/servel333/vogels-promisified/issues"
   },
