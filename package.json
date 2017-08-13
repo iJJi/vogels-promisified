@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/servel333/vogels-promisified#readme",
   "dependencies": {
-    "bluebird": "^3.3.3",
+    "bluebird": "^3.5.0",
     "vogels": "^2.2.0"
   }
 }
